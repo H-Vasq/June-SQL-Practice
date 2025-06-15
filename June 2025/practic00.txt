@@ -23,3 +23,7 @@ sqlite> .shell test01.csv
 sh: 1: test01.csv: not found
 
 ChatGPT: Yes — .shell works inside the SQLite shell — but not for opening or importing .csv files directly. Instead, it’s used to run external shell commands like ls, cat, or other terminal commands from inside SQLite.
+
+   -------------------
+
+.shell clear /*to clear*/
