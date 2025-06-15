@@ -1,0 +1,8 @@
+June 15
+
+sqlite> SELECT *
+   ...> FROM Invoice
+   ...> LIMIT 10;
+
+
+   -------------------
