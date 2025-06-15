@@ -7,4 +7,19 @@ sqlite> SELECT *
 
    -------------------
 
-   
+   sqlite> SELECT Total, BillingCountry
+   ...> FROM Invoice;
+
+   -------------------
+
+sqlite> .mode csv
+sqlite> .header on
+sqlite> .output test01.csv
+sqlite> SELECT *
+   ...> FROM Invoice;
+sqlite> .output stdout
+sqlite> .mode list
+sqlite> .shell test01.csv
+sh: 1: test01.csv: not found
+
+ChatGPT: Yes — .shell works inside the SQLite shell — but not for opening or importing .csv files directly. Instead, it’s used to run external shell commands like ls, cat, or other terminal commands from inside SQLite.
