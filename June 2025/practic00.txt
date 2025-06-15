@@ -27,3 +27,20 @@ ChatGPT: Yes — .shell works inside the SQLite shell — but not for opening or
    -------------------
 
 .shell clear /*to clear*/
+
+   -------------------
+
+sqlite> SELECT *
+   ...> FROM Invoice
+   ...> WHERE Total > 10
+   ...> AND InvoiceDate BETWEEN '2013-01-01' AND '2013-06-01';
+
+
+   -------------------
+
+
+   SELECT *
+   ...> FROM Invoice
+   ...> WHERE Total > 10
+   ...> AND (InvoiceDate BETWEEN '2009-01-01' AND '2009-03-25'
+(x1...> OR InvoiceDate BETWEEN '2010-04-01' AND '2010-04-20');
