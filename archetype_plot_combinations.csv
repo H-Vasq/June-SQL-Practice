@@ -1,0 +1,925 @@
+Start Archetype,Plot Type,Opposing Archetype
+The Hero,Overcoming the Monster,The Mentor
+The Hero,Overcoming the Monster,The Ally
+The Hero,Overcoming the Monster,The Herald
+The Hero,Overcoming the Monster,The Trickster
+The Hero,Overcoming the Monster,The Shapeshifter
+The Hero,Overcoming the Monster,The Guardian
+The Hero,Overcoming the Monster,The Shadow
+The Hero,Overcoming the Monster,The Ruler
+The Hero,Overcoming the Monster,The Creator
+The Hero,Overcoming the Monster,The Innocent
+The Hero,Overcoming the Monster,The Outlaw
+The Hero,Rags to Riches,The Mentor
+The Hero,Rags to Riches,The Ally
+The Hero,Rags to Riches,The Herald
+The Hero,Rags to Riches,The Trickster
+The Hero,Rags to Riches,The Shapeshifter
+The Hero,Rags to Riches,The Guardian
+The Hero,Rags to Riches,The Shadow
+The Hero,Rags to Riches,The Ruler
+The Hero,Rags to Riches,The Creator
+The Hero,Rags to Riches,The Innocent
+The Hero,Rags to Riches,The Outlaw
+The Hero,The Quest,The Mentor
+The Hero,The Quest,The Ally
+The Hero,The Quest,The Herald
+The Hero,The Quest,The Trickster
+The Hero,The Quest,The Shapeshifter
+The Hero,The Quest,The Guardian
+The Hero,The Quest,The Shadow
+The Hero,The Quest,The Ruler
+The Hero,The Quest,The Creator
+The Hero,The Quest,The Innocent
+The Hero,The Quest,The Outlaw
+The Hero,Voyage and Return,The Mentor
+The Hero,Voyage and Return,The Ally
+The Hero,Voyage and Return,The Herald
+The Hero,Voyage and Return,The Trickster
+The Hero,Voyage and Return,The Shapeshifter
+The Hero,Voyage and Return,The Guardian
+The Hero,Voyage and Return,The Shadow
+The Hero,Voyage and Return,The Ruler
+The Hero,Voyage and Return,The Creator
+The Hero,Voyage and Return,The Innocent
+The Hero,Voyage and Return,The Outlaw
+The Hero,Comedy,The Mentor
+The Hero,Comedy,The Ally
+The Hero,Comedy,The Herald
+The Hero,Comedy,The Trickster
+The Hero,Comedy,The Shapeshifter
+The Hero,Comedy,The Guardian
+The Hero,Comedy,The Shadow
+The Hero,Comedy,The Ruler
+The Hero,Comedy,The Creator
+The Hero,Comedy,The Innocent
+The Hero,Comedy,The Outlaw
+The Hero,Tragedy,The Mentor
+The Hero,Tragedy,The Ally
+The Hero,Tragedy,The Herald
+The Hero,Tragedy,The Trickster
+The Hero,Tragedy,The Shapeshifter
+The Hero,Tragedy,The Guardian
+The Hero,Tragedy,The Shadow
+The Hero,Tragedy,The Ruler
+The Hero,Tragedy,The Creator
+The Hero,Tragedy,The Innocent
+The Hero,Tragedy,The Outlaw
+The Hero,Rebirth,The Mentor
+The Hero,Rebirth,The Ally
+The Hero,Rebirth,The Herald
+The Hero,Rebirth,The Trickster
+The Hero,Rebirth,The Shapeshifter
+The Hero,Rebirth,The Guardian
+The Hero,Rebirth,The Shadow
+The Hero,Rebirth,The Ruler
+The Hero,Rebirth,The Creator
+The Hero,Rebirth,The Innocent
+The Hero,Rebirth,The Outlaw
+The Mentor,Overcoming the Monster,The Hero
+The Mentor,Overcoming the Monster,The Ally
+The Mentor,Overcoming the Monster,The Herald
+The Mentor,Overcoming the Monster,The Trickster
+The Mentor,Overcoming the Monster,The Shapeshifter
+The Mentor,Overcoming the Monster,The Guardian
+The Mentor,Overcoming the Monster,The Shadow
+The Mentor,Overcoming the Monster,The Ruler
+The Mentor,Overcoming the Monster,The Creator
+The Mentor,Overcoming the Monster,The Innocent
+The Mentor,Overcoming the Monster,The Outlaw
+The Mentor,Rags to Riches,The Hero
+The Mentor,Rags to Riches,The Ally
+The Mentor,Rags to Riches,The Herald
+The Mentor,Rags to Riches,The Trickster
+The Mentor,Rags to Riches,The Shapeshifter
+The Mentor,Rags to Riches,The Guardian
+The Mentor,Rags to Riches,The Shadow
+The Mentor,Rags to Riches,The Ruler
+The Mentor,Rags to Riches,The Creator
+The Mentor,Rags to Riches,The Innocent
+The Mentor,Rags to Riches,The Outlaw
+The Mentor,The Quest,The Hero
+The Mentor,The Quest,The Ally
+The Mentor,The Quest,The Herald
+The Mentor,The Quest,The Trickster
+The Mentor,The Quest,The Shapeshifter
+The Mentor,The Quest,The Guardian
+The Mentor,The Quest,The Shadow
+The Mentor,The Quest,The Ruler
+The Mentor,The Quest,The Creator
+The Mentor,The Quest,The Innocent
+The Mentor,The Quest,The Outlaw
+The Mentor,Voyage and Return,The Hero
+The Mentor,Voyage and Return,The Ally
+The Mentor,Voyage and Return,The Herald
+The Mentor,Voyage and Return,The Trickster
+The Mentor,Voyage and Return,The Shapeshifter
+The Mentor,Voyage and Return,The Guardian
+The Mentor,Voyage and Return,The Shadow
+The Mentor,Voyage and Return,The Ruler
+The Mentor,Voyage and Return,The Creator
+The Mentor,Voyage and Return,The Innocent
+The Mentor,Voyage and Return,The Outlaw
+The Mentor,Comedy,The Hero
+The Mentor,Comedy,The Ally
+The Mentor,Comedy,The Herald
+The Mentor,Comedy,The Trickster
+The Mentor,Comedy,The Shapeshifter
+The Mentor,Comedy,The Guardian
+The Mentor,Comedy,The Shadow
+The Mentor,Comedy,The Ruler
+The Mentor,Comedy,The Creator
+The Mentor,Comedy,The Innocent
+The Mentor,Comedy,The Outlaw
+The Mentor,Tragedy,The Hero
+The Mentor,Tragedy,The Ally
+The Mentor,Tragedy,The Herald
+The Mentor,Tragedy,The Trickster
+The Mentor,Tragedy,The Shapeshifter
+The Mentor,Tragedy,The Guardian
+The Mentor,Tragedy,The Shadow
+The Mentor,Tragedy,The Ruler
+The Mentor,Tragedy,The Creator
+The Mentor,Tragedy,The Innocent
+The Mentor,Tragedy,The Outlaw
+The Mentor,Rebirth,The Hero
+The Mentor,Rebirth,The Ally
+The Mentor,Rebirth,The Herald
+The Mentor,Rebirth,The Trickster
+The Mentor,Rebirth,The Shapeshifter
+The Mentor,Rebirth,The Guardian
+The Mentor,Rebirth,The Shadow
+The Mentor,Rebirth,The Ruler
+The Mentor,Rebirth,The Creator
+The Mentor,Rebirth,The Innocent
+The Mentor,Rebirth,The Outlaw
+The Ally,Overcoming the Monster,The Hero
+The Ally,Overcoming the Monster,The Mentor
+The Ally,Overcoming the Monster,The Herald
+The Ally,Overcoming the Monster,The Trickster
+The Ally,Overcoming the Monster,The Shapeshifter
+The Ally,Overcoming the Monster,The Guardian
+The Ally,Overcoming the Monster,The Shadow
+The Ally,Overcoming the Monster,The Ruler
+The Ally,Overcoming the Monster,The Creator
+The Ally,Overcoming the Monster,The Innocent
+The Ally,Overcoming the Monster,The Outlaw
+The Ally,Rags to Riches,The Hero
+The Ally,Rags to Riches,The Mentor
+The Ally,Rags to Riches,The Herald
+The Ally,Rags to Riches,The Trickster
+The Ally,Rags to Riches,The Shapeshifter
+The Ally,Rags to Riches,The Guardian
+The Ally,Rags to Riches,The Shadow
+The Ally,Rags to Riches,The Ruler
+The Ally,Rags to Riches,The Creator
+The Ally,Rags to Riches,The Innocent
+The Ally,Rags to Riches,The Outlaw
+The Ally,The Quest,The Hero
+The Ally,The Quest,The Mentor
+The Ally,The Quest,The Herald
+The Ally,The Quest,The Trickster
+The Ally,The Quest,The Shapeshifter
+The Ally,The Quest,The Guardian
+The Ally,The Quest,The Shadow
+The Ally,The Quest,The Ruler
+The Ally,The Quest,The Creator
+The Ally,The Quest,The Innocent
+The Ally,The Quest,The Outlaw
+The Ally,Voyage and Return,The Hero
+The Ally,Voyage and Return,The Mentor
+The Ally,Voyage and Return,The Herald
+The Ally,Voyage and Return,The Trickster
+The Ally,Voyage and Return,The Shapeshifter
+The Ally,Voyage and Return,The Guardian
+The Ally,Voyage and Return,The Shadow
+The Ally,Voyage and Return,The Ruler
+The Ally,Voyage and Return,The Creator
+The Ally,Voyage and Return,The Innocent
+The Ally,Voyage and Return,The Outlaw
+The Ally,Comedy,The Hero
+The Ally,Comedy,The Mentor
+The Ally,Comedy,The Herald
+The Ally,Comedy,The Trickster
+The Ally,Comedy,The Shapeshifter
+The Ally,Comedy,The Guardian
+The Ally,Comedy,The Shadow
+The Ally,Comedy,The Ruler
+The Ally,Comedy,The Creator
+The Ally,Comedy,The Innocent
+The Ally,Comedy,The Outlaw
+The Ally,Tragedy,The Hero
+The Ally,Tragedy,The Mentor
+The Ally,Tragedy,The Herald
+The Ally,Tragedy,The Trickster
+The Ally,Tragedy,The Shapeshifter
+The Ally,Tragedy,The Guardian
+The Ally,Tragedy,The Shadow
+The Ally,Tragedy,The Ruler
+The Ally,Tragedy,The Creator
+The Ally,Tragedy,The Innocent
+The Ally,Tragedy,The Outlaw
+The Ally,Rebirth,The Hero
+The Ally,Rebirth,The Mentor
+The Ally,Rebirth,The Herald
+The Ally,Rebirth,The Trickster
+The Ally,Rebirth,The Shapeshifter
+The Ally,Rebirth,The Guardian
+The Ally,Rebirth,The Shadow
+The Ally,Rebirth,The Ruler
+The Ally,Rebirth,The Creator
+The Ally,Rebirth,The Innocent
+The Ally,Rebirth,The Outlaw
+The Herald,Overcoming the Monster,The Hero
+The Herald,Overcoming the Monster,The Mentor
+The Herald,Overcoming the Monster,The Ally
+The Herald,Overcoming the Monster,The Trickster
+The Herald,Overcoming the Monster,The Shapeshifter
+The Herald,Overcoming the Monster,The Guardian
+The Herald,Overcoming the Monster,The Shadow
+The Herald,Overcoming the Monster,The Ruler
+The Herald,Overcoming the Monster,The Creator
+The Herald,Overcoming the Monster,The Innocent
+The Herald,Overcoming the Monster,The Outlaw
+The Herald,Rags to Riches,The Hero
+The Herald,Rags to Riches,The Mentor
+The Herald,Rags to Riches,The Ally
+The Herald,Rags to Riches,The Trickster
+The Herald,Rags to Riches,The Shapeshifter
+The Herald,Rags to Riches,The Guardian
+The Herald,Rags to Riches,The Shadow
+The Herald,Rags to Riches,The Ruler
+The Herald,Rags to Riches,The Creator
+The Herald,Rags to Riches,The Innocent
+The Herald,Rags to Riches,The Outlaw
+The Herald,The Quest,The Hero
+The Herald,The Quest,The Mentor
+The Herald,The Quest,The Ally
+The Herald,The Quest,The Trickster
+The Herald,The Quest,The Shapeshifter
+The Herald,The Quest,The Guardian
+The Herald,The Quest,The Shadow
+The Herald,The Quest,The Ruler
+The Herald,The Quest,The Creator
+The Herald,The Quest,The Innocent
+The Herald,The Quest,The Outlaw
+The Herald,Voyage and Return,The Hero
+The Herald,Voyage and Return,The Mentor
+The Herald,Voyage and Return,The Ally
+The Herald,Voyage and Return,The Trickster
+The Herald,Voyage and Return,The Shapeshifter
+The Herald,Voyage and Return,The Guardian
+The Herald,Voyage and Return,The Shadow
+The Herald,Voyage and Return,The Ruler
+The Herald,Voyage and Return,The Creator
+The Herald,Voyage and Return,The Innocent
+The Herald,Voyage and Return,The Outlaw
+The Herald,Comedy,The Hero
+The Herald,Comedy,The Mentor
+The Herald,Comedy,The Ally
+The Herald,Comedy,The Trickster
+The Herald,Comedy,The Shapeshifter
+The Herald,Comedy,The Guardian
+The Herald,Comedy,The Shadow
+The Herald,Comedy,The Ruler
+The Herald,Comedy,The Creator
+The Herald,Comedy,The Innocent
+The Herald,Comedy,The Outlaw
+The Herald,Tragedy,The Hero
+The Herald,Tragedy,The Mentor
+The Herald,Tragedy,The Ally
+The Herald,Tragedy,The Trickster
+The Herald,Tragedy,The Shapeshifter
+The Herald,Tragedy,The Guardian
+The Herald,Tragedy,The Shadow
+The Herald,Tragedy,The Ruler
+The Herald,Tragedy,The Creator
+The Herald,Tragedy,The Innocent
+The Herald,Tragedy,The Outlaw
+The Herald,Rebirth,The Hero
+The Herald,Rebirth,The Mentor
+The Herald,Rebirth,The Ally
+The Herald,Rebirth,The Trickster
+The Herald,Rebirth,The Shapeshifter
+The Herald,Rebirth,The Guardian
+The Herald,Rebirth,The Shadow
+The Herald,Rebirth,The Ruler
+The Herald,Rebirth,The Creator
+The Herald,Rebirth,The Innocent
+The Herald,Rebirth,The Outlaw
+The Trickster,Overcoming the Monster,The Hero
+The Trickster,Overcoming the Monster,The Mentor
+The Trickster,Overcoming the Monster,The Ally
+The Trickster,Overcoming the Monster,The Herald
+The Trickster,Overcoming the Monster,The Shapeshifter
+The Trickster,Overcoming the Monster,The Guardian
+The Trickster,Overcoming the Monster,The Shadow
+The Trickster,Overcoming the Monster,The Ruler
+The Trickster,Overcoming the Monster,The Creator
+The Trickster,Overcoming the Monster,The Innocent
+The Trickster,Overcoming the Monster,The Outlaw
+The Trickster,Rags to Riches,The Hero
+The Trickster,Rags to Riches,The Mentor
+The Trickster,Rags to Riches,The Ally
+The Trickster,Rags to Riches,The Herald
+The Trickster,Rags to Riches,The Shapeshifter
+The Trickster,Rags to Riches,The Guardian
+The Trickster,Rags to Riches,The Shadow
+The Trickster,Rags to Riches,The Ruler
+The Trickster,Rags to Riches,The Creator
+The Trickster,Rags to Riches,The Innocent
+The Trickster,Rags to Riches,The Outlaw
+The Trickster,The Quest,The Hero
+The Trickster,The Quest,The Mentor
+The Trickster,The Quest,The Ally
+The Trickster,The Quest,The Herald
+The Trickster,The Quest,The Shapeshifter
+The Trickster,The Quest,The Guardian
+The Trickster,The Quest,The Shadow
+The Trickster,The Quest,The Ruler
+The Trickster,The Quest,The Creator
+The Trickster,The Quest,The Innocent
+The Trickster,The Quest,The Outlaw
+The Trickster,Voyage and Return,The Hero
+The Trickster,Voyage and Return,The Mentor
+The Trickster,Voyage and Return,The Ally
+The Trickster,Voyage and Return,The Herald
+The Trickster,Voyage and Return,The Shapeshifter
+The Trickster,Voyage and Return,The Guardian
+The Trickster,Voyage and Return,The Shadow
+The Trickster,Voyage and Return,The Ruler
+The Trickster,Voyage and Return,The Creator
+The Trickster,Voyage and Return,The Innocent
+The Trickster,Voyage and Return,The Outlaw
+The Trickster,Comedy,The Hero
+The Trickster,Comedy,The Mentor
+The Trickster,Comedy,The Ally
+The Trickster,Comedy,The Herald
+The Trickster,Comedy,The Shapeshifter
+The Trickster,Comedy,The Guardian
+The Trickster,Comedy,The Shadow
+The Trickster,Comedy,The Ruler
+The Trickster,Comedy,The Creator
+The Trickster,Comedy,The Innocent
+The Trickster,Comedy,The Outlaw
+The Trickster,Tragedy,The Hero
+The Trickster,Tragedy,The Mentor
+The Trickster,Tragedy,The Ally
+The Trickster,Tragedy,The Herald
+The Trickster,Tragedy,The Shapeshifter
+The Trickster,Tragedy,The Guardian
+The Trickster,Tragedy,The Shadow
+The Trickster,Tragedy,The Ruler
+The Trickster,Tragedy,The Creator
+The Trickster,Tragedy,The Innocent
+The Trickster,Tragedy,The Outlaw
+The Trickster,Rebirth,The Hero
+The Trickster,Rebirth,The Mentor
+The Trickster,Rebirth,The Ally
+The Trickster,Rebirth,The Herald
+The Trickster,Rebirth,The Shapeshifter
+The Trickster,Rebirth,The Guardian
+The Trickster,Rebirth,The Shadow
+The Trickster,Rebirth,The Ruler
+The Trickster,Rebirth,The Creator
+The Trickster,Rebirth,The Innocent
+The Trickster,Rebirth,The Outlaw
+The Shapeshifter,Overcoming the Monster,The Hero
+The Shapeshifter,Overcoming the Monster,The Mentor
+The Shapeshifter,Overcoming the Monster,The Ally
+The Shapeshifter,Overcoming the Monster,The Herald
+The Shapeshifter,Overcoming the Monster,The Trickster
+The Shapeshifter,Overcoming the Monster,The Guardian
+The Shapeshifter,Overcoming the Monster,The Shadow
+The Shapeshifter,Overcoming the Monster,The Ruler
+The Shapeshifter,Overcoming the Monster,The Creator
+The Shapeshifter,Overcoming the Monster,The Innocent
+The Shapeshifter,Overcoming the Monster,The Outlaw
+The Shapeshifter,Rags to Riches,The Hero
+The Shapeshifter,Rags to Riches,The Mentor
+The Shapeshifter,Rags to Riches,The Ally
+The Shapeshifter,Rags to Riches,The Herald
+The Shapeshifter,Rags to Riches,The Trickster
+The Shapeshifter,Rags to Riches,The Guardian
+The Shapeshifter,Rags to Riches,The Shadow
+The Shapeshifter,Rags to Riches,The Ruler
+The Shapeshifter,Rags to Riches,The Creator
+The Shapeshifter,Rags to Riches,The Innocent
+The Shapeshifter,Rags to Riches,The Outlaw
+The Shapeshifter,The Quest,The Hero
+The Shapeshifter,The Quest,The Mentor
+The Shapeshifter,The Quest,The Ally
+The Shapeshifter,The Quest,The Herald
+The Shapeshifter,The Quest,The Trickster
+The Shapeshifter,The Quest,The Guardian
+The Shapeshifter,The Quest,The Shadow
+The Shapeshifter,The Quest,The Ruler
+The Shapeshifter,The Quest,The Creator
+The Shapeshifter,The Quest,The Innocent
+The Shapeshifter,The Quest,The Outlaw
+The Shapeshifter,Voyage and Return,The Hero
+The Shapeshifter,Voyage and Return,The Mentor
+The Shapeshifter,Voyage and Return,The Ally
+The Shapeshifter,Voyage and Return,The Herald
+The Shapeshifter,Voyage and Return,The Trickster
+The Shapeshifter,Voyage and Return,The Guardian
+The Shapeshifter,Voyage and Return,The Shadow
+The Shapeshifter,Voyage and Return,The Ruler
+The Shapeshifter,Voyage and Return,The Creator
+The Shapeshifter,Voyage and Return,The Innocent
+The Shapeshifter,Voyage and Return,The Outlaw
+The Shapeshifter,Comedy,The Hero
+The Shapeshifter,Comedy,The Mentor
+The Shapeshifter,Comedy,The Ally
+The Shapeshifter,Comedy,The Herald
+The Shapeshifter,Comedy,The Trickster
+The Shapeshifter,Comedy,The Guardian
+The Shapeshifter,Comedy,The Shadow
+The Shapeshifter,Comedy,The Ruler
+The Shapeshifter,Comedy,The Creator
+The Shapeshifter,Comedy,The Innocent
+The Shapeshifter,Comedy,The Outlaw
+The Shapeshifter,Tragedy,The Hero
+The Shapeshifter,Tragedy,The Mentor
+The Shapeshifter,Tragedy,The Ally
+The Shapeshifter,Tragedy,The Herald
+The Shapeshifter,Tragedy,The Trickster
+The Shapeshifter,Tragedy,The Guardian
+The Shapeshifter,Tragedy,The Shadow
+The Shapeshifter,Tragedy,The Ruler
+The Shapeshifter,Tragedy,The Creator
+The Shapeshifter,Tragedy,The Innocent
+The Shapeshifter,Tragedy,The Outlaw
+The Shapeshifter,Rebirth,The Hero
+The Shapeshifter,Rebirth,The Mentor
+The Shapeshifter,Rebirth,The Ally
+The Shapeshifter,Rebirth,The Herald
+The Shapeshifter,Rebirth,The Trickster
+The Shapeshifter,Rebirth,The Guardian
+The Shapeshifter,Rebirth,The Shadow
+The Shapeshifter,Rebirth,The Ruler
+The Shapeshifter,Rebirth,The Creator
+The Shapeshifter,Rebirth,The Innocent
+The Shapeshifter,Rebirth,The Outlaw
+The Guardian,Overcoming the Monster,The Hero
+The Guardian,Overcoming the Monster,The Mentor
+The Guardian,Overcoming the Monster,The Ally
+The Guardian,Overcoming the Monster,The Herald
+The Guardian,Overcoming the Monster,The Trickster
+The Guardian,Overcoming the Monster,The Shapeshifter
+The Guardian,Overcoming the Monster,The Shadow
+The Guardian,Overcoming the Monster,The Ruler
+The Guardian,Overcoming the Monster,The Creator
+The Guardian,Overcoming the Monster,The Innocent
+The Guardian,Overcoming the Monster,The Outlaw
+The Guardian,Rags to Riches,The Hero
+The Guardian,Rags to Riches,The Mentor
+The Guardian,Rags to Riches,The Ally
+The Guardian,Rags to Riches,The Herald
+The Guardian,Rags to Riches,The Trickster
+The Guardian,Rags to Riches,The Shapeshifter
+The Guardian,Rags to Riches,The Shadow
+The Guardian,Rags to Riches,The Ruler
+The Guardian,Rags to Riches,The Creator
+The Guardian,Rags to Riches,The Innocent
+The Guardian,Rags to Riches,The Outlaw
+The Guardian,The Quest,The Hero
+The Guardian,The Quest,The Mentor
+The Guardian,The Quest,The Ally
+The Guardian,The Quest,The Herald
+The Guardian,The Quest,The Trickster
+The Guardian,The Quest,The Shapeshifter
+The Guardian,The Quest,The Shadow
+The Guardian,The Quest,The Ruler
+The Guardian,The Quest,The Creator
+The Guardian,The Quest,The Innocent
+The Guardian,The Quest,The Outlaw
+The Guardian,Voyage and Return,The Hero
+The Guardian,Voyage and Return,The Mentor
+The Guardian,Voyage and Return,The Ally
+The Guardian,Voyage and Return,The Herald
+The Guardian,Voyage and Return,The Trickster
+The Guardian,Voyage and Return,The Shapeshifter
+The Guardian,Voyage and Return,The Shadow
+The Guardian,Voyage and Return,The Ruler
+The Guardian,Voyage and Return,The Creator
+The Guardian,Voyage and Return,The Innocent
+The Guardian,Voyage and Return,The Outlaw
+The Guardian,Comedy,The Hero
+The Guardian,Comedy,The Mentor
+The Guardian,Comedy,The Ally
+The Guardian,Comedy,The Herald
+The Guardian,Comedy,The Trickster
+The Guardian,Comedy,The Shapeshifter
+The Guardian,Comedy,The Shadow
+The Guardian,Comedy,The Ruler
+The Guardian,Comedy,The Creator
+The Guardian,Comedy,The Innocent
+The Guardian,Comedy,The Outlaw
+The Guardian,Tragedy,The Hero
+The Guardian,Tragedy,The Mentor
+The Guardian,Tragedy,The Ally
+The Guardian,Tragedy,The Herald
+The Guardian,Tragedy,The Trickster
+The Guardian,Tragedy,The Shapeshifter
+The Guardian,Tragedy,The Shadow
+The Guardian,Tragedy,The Ruler
+The Guardian,Tragedy,The Creator
+The Guardian,Tragedy,The Innocent
+The Guardian,Tragedy,The Outlaw
+The Guardian,Rebirth,The Hero
+The Guardian,Rebirth,The Mentor
+The Guardian,Rebirth,The Ally
+The Guardian,Rebirth,The Herald
+The Guardian,Rebirth,The Trickster
+The Guardian,Rebirth,The Shapeshifter
+The Guardian,Rebirth,The Shadow
+The Guardian,Rebirth,The Ruler
+The Guardian,Rebirth,The Creator
+The Guardian,Rebirth,The Innocent
+The Guardian,Rebirth,The Outlaw
+The Shadow,Overcoming the Monster,The Hero
+The Shadow,Overcoming the Monster,The Mentor
+The Shadow,Overcoming the Monster,The Ally
+The Shadow,Overcoming the Monster,The Herald
+The Shadow,Overcoming the Monster,The Trickster
+The Shadow,Overcoming the Monster,The Shapeshifter
+The Shadow,Overcoming the Monster,The Guardian
+The Shadow,Overcoming the Monster,The Ruler
+The Shadow,Overcoming the Monster,The Creator
+The Shadow,Overcoming the Monster,The Innocent
+The Shadow,Overcoming the Monster,The Outlaw
+The Shadow,Rags to Riches,The Hero
+The Shadow,Rags to Riches,The Mentor
+The Shadow,Rags to Riches,The Ally
+The Shadow,Rags to Riches,The Herald
+The Shadow,Rags to Riches,The Trickster
+The Shadow,Rags to Riches,The Shapeshifter
+The Shadow,Rags to Riches,The Guardian
+The Shadow,Rags to Riches,The Ruler
+The Shadow,Rags to Riches,The Creator
+The Shadow,Rags to Riches,The Innocent
+The Shadow,Rags to Riches,The Outlaw
+The Shadow,The Quest,The Hero
+The Shadow,The Quest,The Mentor
+The Shadow,The Quest,The Ally
+The Shadow,The Quest,The Herald
+The Shadow,The Quest,The Trickster
+The Shadow,The Quest,The Shapeshifter
+The Shadow,The Quest,The Guardian
+The Shadow,The Quest,The Ruler
+The Shadow,The Quest,The Creator
+The Shadow,The Quest,The Innocent
+The Shadow,The Quest,The Outlaw
+The Shadow,Voyage and Return,The Hero
+The Shadow,Voyage and Return,The Mentor
+The Shadow,Voyage and Return,The Ally
+The Shadow,Voyage and Return,The Herald
+The Shadow,Voyage and Return,The Trickster
+The Shadow,Voyage and Return,The Shapeshifter
+The Shadow,Voyage and Return,The Guardian
+The Shadow,Voyage and Return,The Ruler
+The Shadow,Voyage and Return,The Creator
+The Shadow,Voyage and Return,The Innocent
+The Shadow,Voyage and Return,The Outlaw
+The Shadow,Comedy,The Hero
+The Shadow,Comedy,The Mentor
+The Shadow,Comedy,The Ally
+The Shadow,Comedy,The Herald
+The Shadow,Comedy,The Trickster
+The Shadow,Comedy,The Shapeshifter
+The Shadow,Comedy,The Guardian
+The Shadow,Comedy,The Ruler
+The Shadow,Comedy,The Creator
+The Shadow,Comedy,The Innocent
+The Shadow,Comedy,The Outlaw
+The Shadow,Tragedy,The Hero
+The Shadow,Tragedy,The Mentor
+The Shadow,Tragedy,The Ally
+The Shadow,Tragedy,The Herald
+The Shadow,Tragedy,The Trickster
+The Shadow,Tragedy,The Shapeshifter
+The Shadow,Tragedy,The Guardian
+The Shadow,Tragedy,The Ruler
+The Shadow,Tragedy,The Creator
+The Shadow,Tragedy,The Innocent
+The Shadow,Tragedy,The Outlaw
+The Shadow,Rebirth,The Hero
+The Shadow,Rebirth,The Mentor
+The Shadow,Rebirth,The Ally
+The Shadow,Rebirth,The Herald
+The Shadow,Rebirth,The Trickster
+The Shadow,Rebirth,The Shapeshifter
+The Shadow,Rebirth,The Guardian
+The Shadow,Rebirth,The Ruler
+The Shadow,Rebirth,The Creator
+The Shadow,Rebirth,The Innocent
+The Shadow,Rebirth,The Outlaw
+The Ruler,Overcoming the Monster,The Hero
+The Ruler,Overcoming the Monster,The Mentor
+The Ruler,Overcoming the Monster,The Ally
+The Ruler,Overcoming the Monster,The Herald
+The Ruler,Overcoming the Monster,The Trickster
+The Ruler,Overcoming the Monster,The Shapeshifter
+The Ruler,Overcoming the Monster,The Guardian
+The Ruler,Overcoming the Monster,The Shadow
+The Ruler,Overcoming the Monster,The Creator
+The Ruler,Overcoming the Monster,The Innocent
+The Ruler,Overcoming the Monster,The Outlaw
+The Ruler,Rags to Riches,The Hero
+The Ruler,Rags to Riches,The Mentor
+The Ruler,Rags to Riches,The Ally
+The Ruler,Rags to Riches,The Herald
+The Ruler,Rags to Riches,The Trickster
+The Ruler,Rags to Riches,The Shapeshifter
+The Ruler,Rags to Riches,The Guardian
+The Ruler,Rags to Riches,The Shadow
+The Ruler,Rags to Riches,The Creator
+The Ruler,Rags to Riches,The Innocent
+The Ruler,Rags to Riches,The Outlaw
+The Ruler,The Quest,The Hero
+The Ruler,The Quest,The Mentor
+The Ruler,The Quest,The Ally
+The Ruler,The Quest,The Herald
+The Ruler,The Quest,The Trickster
+The Ruler,The Quest,The Shapeshifter
+The Ruler,The Quest,The Guardian
+The Ruler,The Quest,The Shadow
+The Ruler,The Quest,The Creator
+The Ruler,The Quest,The Innocent
+The Ruler,The Quest,The Outlaw
+The Ruler,Voyage and Return,The Hero
+The Ruler,Voyage and Return,The Mentor
+The Ruler,Voyage and Return,The Ally
+The Ruler,Voyage and Return,The Herald
+The Ruler,Voyage and Return,The Trickster
+The Ruler,Voyage and Return,The Shapeshifter
+The Ruler,Voyage and Return,The Guardian
+The Ruler,Voyage and Return,The Shadow
+The Ruler,Voyage and Return,The Creator
+The Ruler,Voyage and Return,The Innocent
+The Ruler,Voyage and Return,The Outlaw
+The Ruler,Comedy,The Hero
+The Ruler,Comedy,The Mentor
+The Ruler,Comedy,The Ally
+The Ruler,Comedy,The Herald
+The Ruler,Comedy,The Trickster
+The Ruler,Comedy,The Shapeshifter
+The Ruler,Comedy,The Guardian
+The Ruler,Comedy,The Shadow
+The Ruler,Comedy,The Creator
+The Ruler,Comedy,The Innocent
+The Ruler,Comedy,The Outlaw
+The Ruler,Tragedy,The Hero
+The Ruler,Tragedy,The Mentor
+The Ruler,Tragedy,The Ally
+The Ruler,Tragedy,The Herald
+The Ruler,Tragedy,The Trickster
+The Ruler,Tragedy,The Shapeshifter
+The Ruler,Tragedy,The Guardian
+The Ruler,Tragedy,The Shadow
+The Ruler,Tragedy,The Creator
+The Ruler,Tragedy,The Innocent
+The Ruler,Tragedy,The Outlaw
+The Ruler,Rebirth,The Hero
+The Ruler,Rebirth,The Mentor
+The Ruler,Rebirth,The Ally
+The Ruler,Rebirth,The Herald
+The Ruler,Rebirth,The Trickster
+The Ruler,Rebirth,The Shapeshifter
+The Ruler,Rebirth,The Guardian
+The Ruler,Rebirth,The Shadow
+The Ruler,Rebirth,The Creator
+The Ruler,Rebirth,The Innocent
+The Ruler,Rebirth,The Outlaw
+The Creator,Overcoming the Monster,The Hero
+The Creator,Overcoming the Monster,The Mentor
+The Creator,Overcoming the Monster,The Ally
+The Creator,Overcoming the Monster,The Herald
+The Creator,Overcoming the Monster,The Trickster
+The Creator,Overcoming the Monster,The Shapeshifter
+The Creator,Overcoming the Monster,The Guardian
+The Creator,Overcoming the Monster,The Shadow
+The Creator,Overcoming the Monster,The Ruler
+The Creator,Overcoming the Monster,The Innocent
+The Creator,Overcoming the Monster,The Outlaw
+The Creator,Rags to Riches,The Hero
+The Creator,Rags to Riches,The Mentor
+The Creator,Rags to Riches,The Ally
+The Creator,Rags to Riches,The Herald
+The Creator,Rags to Riches,The Trickster
+The Creator,Rags to Riches,The Shapeshifter
+The Creator,Rags to Riches,The Guardian
+The Creator,Rags to Riches,The Shadow
+The Creator,Rags to Riches,The Ruler
+The Creator,Rags to Riches,The Innocent
+The Creator,Rags to Riches,The Outlaw
+The Creator,The Quest,The Hero
+The Creator,The Quest,The Mentor
+The Creator,The Quest,The Ally
+The Creator,The Quest,The Herald
+The Creator,The Quest,The Trickster
+The Creator,The Quest,The Shapeshifter
+The Creator,The Quest,The Guardian
+The Creator,The Quest,The Shadow
+The Creator,The Quest,The Ruler
+The Creator,The Quest,The Innocent
+The Creator,The Quest,The Outlaw
+The Creator,Voyage and Return,The Hero
+The Creator,Voyage and Return,The Mentor
+The Creator,Voyage and Return,The Ally
+The Creator,Voyage and Return,The Herald
+The Creator,Voyage and Return,The Trickster
+The Creator,Voyage and Return,The Shapeshifter
+The Creator,Voyage and Return,The Guardian
+The Creator,Voyage and Return,The Shadow
+The Creator,Voyage and Return,The Ruler
+The Creator,Voyage and Return,The Innocent
+The Creator,Voyage and Return,The Outlaw
+The Creator,Comedy,The Hero
+The Creator,Comedy,The Mentor
+The Creator,Comedy,The Ally
+The Creator,Comedy,The Herald
+The Creator,Comedy,The Trickster
+The Creator,Comedy,The Shapeshifter
+The Creator,Comedy,The Guardian
+The Creator,Comedy,The Shadow
+The Creator,Comedy,The Ruler
+The Creator,Comedy,The Innocent
+The Creator,Comedy,The Outlaw
+The Creator,Tragedy,The Hero
+The Creator,Tragedy,The Mentor
+The Creator,Tragedy,The Ally
+The Creator,Tragedy,The Herald
+The Creator,Tragedy,The Trickster
+The Creator,Tragedy,The Shapeshifter
+The Creator,Tragedy,The Guardian
+The Creator,Tragedy,The Shadow
+The Creator,Tragedy,The Ruler
+The Creator,Tragedy,The Innocent
+The Creator,Tragedy,The Outlaw
+The Creator,Rebirth,The Hero
+The Creator,Rebirth,The Mentor
+The Creator,Rebirth,The Ally
+The Creator,Rebirth,The Herald
+The Creator,Rebirth,The Trickster
+The Creator,Rebirth,The Shapeshifter
+The Creator,Rebirth,The Guardian
+The Creator,Rebirth,The Shadow
+The Creator,Rebirth,The Ruler
+The Creator,Rebirth,The Innocent
+The Creator,Rebirth,The Outlaw
+The Innocent,Overcoming the Monster,The Hero
+The Innocent,Overcoming the Monster,The Mentor
+The Innocent,Overcoming the Monster,The Ally
+The Innocent,Overcoming the Monster,The Herald
+The Innocent,Overcoming the Monster,The Trickster
+The Innocent,Overcoming the Monster,The Shapeshifter
+The Innocent,Overcoming the Monster,The Guardian
+The Innocent,Overcoming the Monster,The Shadow
+The Innocent,Overcoming the Monster,The Ruler
+The Innocent,Overcoming the Monster,The Creator
+The Innocent,Overcoming the Monster,The Outlaw
+The Innocent,Rags to Riches,The Hero
+The Innocent,Rags to Riches,The Mentor
+The Innocent,Rags to Riches,The Ally
+The Innocent,Rags to Riches,The Herald
+The Innocent,Rags to Riches,The Trickster
+The Innocent,Rags to Riches,The Shapeshifter
+The Innocent,Rags to Riches,The Guardian
+The Innocent,Rags to Riches,The Shadow
+The Innocent,Rags to Riches,The Ruler
+The Innocent,Rags to Riches,The Creator
+The Innocent,Rags to Riches,The Outlaw
+The Innocent,The Quest,The Hero
+The Innocent,The Quest,The Mentor
+The Innocent,The Quest,The Ally
+The Innocent,The Quest,The Herald
+The Innocent,The Quest,The Trickster
+The Innocent,The Quest,The Shapeshifter
+The Innocent,The Quest,The Guardian
+The Innocent,The Quest,The Shadow
+The Innocent,The Quest,The Ruler
+The Innocent,The Quest,The Creator
+The Innocent,The Quest,The Outlaw
+The Innocent,Voyage and Return,The Hero
+The Innocent,Voyage and Return,The Mentor
+The Innocent,Voyage and Return,The Ally
+The Innocent,Voyage and Return,The Herald
+The Innocent,Voyage and Return,The Trickster
+The Innocent,Voyage and Return,The Shapeshifter
+The Innocent,Voyage and Return,The Guardian
+The Innocent,Voyage and Return,The Shadow
+The Innocent,Voyage and Return,The Ruler
+The Innocent,Voyage and Return,The Creator
+The Innocent,Voyage and Return,The Outlaw
+The Innocent,Comedy,The Hero
+The Innocent,Comedy,The Mentor
+The Innocent,Comedy,The Ally
+The Innocent,Comedy,The Herald
+The Innocent,Comedy,The Trickster
+The Innocent,Comedy,The Shapeshifter
+The Innocent,Comedy,The Guardian
+The Innocent,Comedy,The Shadow
+The Innocent,Comedy,The Ruler
+The Innocent,Comedy,The Creator
+The Innocent,Comedy,The Outlaw
+The Innocent,Tragedy,The Hero
+The Innocent,Tragedy,The Mentor
+The Innocent,Tragedy,The Ally
+The Innocent,Tragedy,The Herald
+The Innocent,Tragedy,The Trickster
+The Innocent,Tragedy,The Shapeshifter
+The Innocent,Tragedy,The Guardian
+The Innocent,Tragedy,The Shadow
+The Innocent,Tragedy,The Ruler
+The Innocent,Tragedy,The Creator
+The Innocent,Tragedy,The Outlaw
+The Innocent,Rebirth,The Hero
+The Innocent,Rebirth,The Mentor
+The Innocent,Rebirth,The Ally
+The Innocent,Rebirth,The Herald
+The Innocent,Rebirth,The Trickster
+The Innocent,Rebirth,The Shapeshifter
+The Innocent,Rebirth,The Guardian
+The Innocent,Rebirth,The Shadow
+The Innocent,Rebirth,The Ruler
+The Innocent,Rebirth,The Creator
+The Innocent,Rebirth,The Outlaw
+The Outlaw,Overcoming the Monster,The Hero
+The Outlaw,Overcoming the Monster,The Mentor
+The Outlaw,Overcoming the Monster,The Ally
+The Outlaw,Overcoming the Monster,The Herald
+The Outlaw,Overcoming the Monster,The Trickster
+The Outlaw,Overcoming the Monster,The Shapeshifter
+The Outlaw,Overcoming the Monster,The Guardian
+The Outlaw,Overcoming the Monster,The Shadow
+The Outlaw,Overcoming the Monster,The Ruler
+The Outlaw,Overcoming the Monster,The Creator
+The Outlaw,Overcoming the Monster,The Innocent
+The Outlaw,Rags to Riches,The Hero
+The Outlaw,Rags to Riches,The Mentor
+The Outlaw,Rags to Riches,The Ally
+The Outlaw,Rags to Riches,The Herald
+The Outlaw,Rags to Riches,The Trickster
+The Outlaw,Rags to Riches,The Shapeshifter
+The Outlaw,Rags to Riches,The Guardian
+The Outlaw,Rags to Riches,The Shadow
+The Outlaw,Rags to Riches,The Ruler
+The Outlaw,Rags to Riches,The Creator
+The Outlaw,Rags to Riches,The Innocent
+The Outlaw,The Quest,The Hero
+The Outlaw,The Quest,The Mentor
+The Outlaw,The Quest,The Ally
+The Outlaw,The Quest,The Herald
+The Outlaw,The Quest,The Trickster
+The Outlaw,The Quest,The Shapeshifter
+The Outlaw,The Quest,The Guardian
+The Outlaw,The Quest,The Shadow
+The Outlaw,The Quest,The Ruler
+The Outlaw,The Quest,The Creator
+The Outlaw,The Quest,The Innocent
+The Outlaw,Voyage and Return,The Hero
+The Outlaw,Voyage and Return,The Mentor
+The Outlaw,Voyage and Return,The Ally
+The Outlaw,Voyage and Return,The Herald
+The Outlaw,Voyage and Return,The Trickster
+The Outlaw,Voyage and Return,The Shapeshifter
+The Outlaw,Voyage and Return,The Guardian
+The Outlaw,Voyage and Return,The Shadow
+The Outlaw,Voyage and Return,The Ruler
+The Outlaw,Voyage and Return,The Creator
+The Outlaw,Voyage and Return,The Innocent
+The Outlaw,Comedy,The Hero
+The Outlaw,Comedy,The Mentor
+The Outlaw,Comedy,The Ally
+The Outlaw,Comedy,The Herald
+The Outlaw,Comedy,The Trickster
+The Outlaw,Comedy,The Shapeshifter
+The Outlaw,Comedy,The Guardian
+The Outlaw,Comedy,The Shadow
+The Outlaw,Comedy,The Ruler
+The Outlaw,Comedy,The Creator
+The Outlaw,Comedy,The Innocent
+The Outlaw,Tragedy,The Hero
+The Outlaw,Tragedy,The Mentor
+The Outlaw,Tragedy,The Ally
+The Outlaw,Tragedy,The Herald
+The Outlaw,Tragedy,The Trickster
+The Outlaw,Tragedy,The Shapeshifter
+The Outlaw,Tragedy,The Guardian
+The Outlaw,Tragedy,The Shadow
+The Outlaw,Tragedy,The Ruler
+The Outlaw,Tragedy,The Creator
+The Outlaw,Tragedy,The Innocent
+The Outlaw,Rebirth,The Hero
+The Outlaw,Rebirth,The Mentor
+The Outlaw,Rebirth,The Ally
+The Outlaw,Rebirth,The Herald
+The Outlaw,Rebirth,The Trickster
+The Outlaw,Rebirth,The Shapeshifter
+The Outlaw,Rebirth,The Guardian
+The Outlaw,Rebirth,The Shadow
+The Outlaw,Rebirth,The Ruler
+The Outlaw,Rebirth,The Creator
+The Outlaw,Rebirth,The Innocent
